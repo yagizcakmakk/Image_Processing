@@ -1,0 +1,17 @@
+Correlation Matrix:
+   1.0e+03 *
+
+    2.3135    3.7644
+    3.7644    7.2668
+
+Eigenvalues:
+   1.0e+03 *
+
+    9.2962
+    0.2841
+
+Main Eigenvector:
+    0.4745
+    0.8802
+
+Wrench angle = 61.67 degree
